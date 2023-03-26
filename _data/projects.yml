@@ -28,3 +28,12 @@
     - tag: ExpressJS
     - tag: Javascript
 
+- name: Ticketing Platform University Exam Project [Working in progress]
+  descr: "Spring Boot web application for ticketing customers support"
+  demo: #
+  tags:
+    - tag: Spring Boot
+    - tag: ReactJS
+    - tag: Kotlin
+    - tag: Javascript
+    - tag: Postgres
