@@ -64,7 +64,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://www.dropbox.com/s/q4gffz8rnpoywek/CV_Daniele_Di_Battista.pdf?dl=0
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -88,9 +88,9 @@ projects_title: Projects
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: true
+#show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+#contact_title: Contact
 # contact_description: This will be displayed under the title.
 #contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
 
