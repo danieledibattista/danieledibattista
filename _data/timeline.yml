@@ -19,13 +19,19 @@
 
 
 - title: Master's Degree in Cybersecurity
-  title-url: https://example.com/
+  title-url: #
   date: 2022 - Present
   subtitle: Politecnico di Torino
   timeline-side: right
 
 - title: Bachelor's Degree in Computer Engineering
-  title-url: https://example.com/
+  title-url: #
   date: 2018 - 2022
   subtitle: Politecnico di Torino
+  timeline-side: left
+
+- title: Scientific High School
+  title-url: #
+  date: 2012 - 2017
+  subtitle: Vitruvio Pollione ( Avezzano )
   timeline-side: left
