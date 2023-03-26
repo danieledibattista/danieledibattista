@@ -15,6 +15,9 @@ username: Daniele Di Battista
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Cybersecurity Computer Engineering Student
+typing_text_1: Avid reader
+typing_text_2: Gym Rat
+typing_text_3: Ambitious Individual
 # email: Your E-Mail address for the email button.
 email: dibadan@proton.me
 # For every social button you want to display, set your username or userid
