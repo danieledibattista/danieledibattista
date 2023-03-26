@@ -27,7 +27,7 @@
     - tag: ExpressJS
     - tag: Javascript
 
-- name: Support Ticketing Platform [ Working in progress ]
+- name: Support Ticketing Platform [ WIP ]
   descr: "Spring Boot web application to support buyers of electronic goods"
   demo: #
   tags:
