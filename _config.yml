@@ -21,8 +21,8 @@ email: dibadan@proton.me
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: dibbadan
-linkedin_username: exampleUser
-twitter_username: exampleUser
+linkedin_username: daniele-di-battista-883160266
+#twitter_username: exampleUser
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -85,7 +85,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
+#contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
