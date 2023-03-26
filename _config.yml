@@ -32,8 +32,14 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
-
+about_me_description: <p>Hello there!</p>
+    <p>My name is Daniele Di Battista, and I am a <strong>Cybersecurity Computer Engineering</strong> student at <strong>Politecnico Di Torino</strong>.</p>
+    <p>I am passionate about the fields of <strong>Hacking</strong> and <strong>Artificial Intelligence</strong> and love exploring new ideas and concepts within these areas.</p>
+    <p>Apart from my studies, I am an <strong>avid reader</strong> and love to explore various topics through books. I believe that <strong>knowledge is power</strong>, and I seek to expand my understanding of the world around me every day.</p>
+    <p>As an <strong>ambitious individual</strong>, I am constantly seeking new challenges and opportunities to grow. I believe in <strong>pushing my limits</strong> and exploring my potential to the fullest.</p>
+    <p>I am also a <strong>Gym Rat</strong>. I love to stay fit and active, and hitting the gym is one of my favorite ways to do so.</p>
+    <p>I believe that fitness is not just about looking good but is also essential for maintaining good health and a positive outlook on life.</p>
+    <p>I believe that through <strong>hard work</strong>, <strong>dedication</strong>, and <strong>discipline</strong> anyone can <strong>achieve anything</strong>!</p>
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -67,9 +73,9 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+#show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+#os_projects_title: Open Source Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -79,28 +85,28 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
 repository: danieledibattista/danieledibattista
-projects:
+#projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
-  exclude:
+  #sort_by: pushed
+  #exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
     # > setting this to false, will also display archived repositories
-    archived: true
+    #archived: true
     # forks:
     # > setting this to true, will exclude forked repositories
     # > setting this to false, will also display forked repositories
-    forks: true
+    #forks: true
     # projects: A list of the repository names you want to exclude from the listing.
-    projects:
+    #projects:
     # - repo1-to-be-excluded
     # - repo2-to-be-excluded
 
