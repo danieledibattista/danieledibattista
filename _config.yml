@@ -38,12 +38,15 @@ about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: <p>Hello there!</p>
     <p>My name is Daniele Di Battista, and I am a <strong>Cybersecurity Computer Engineering</strong> student at <strong>Politecnico Di Torino</strong>.</p>
+    <p>Currently I'm working on the Thesis which is a research project about improving the security of a smart home through smart home gateway and MUD paradigm</p>
     <p>I am passionate about the fields of <strong>Hacking</strong> and <strong>Artificial Intelligence</strong> and love exploring new ideas and concepts within these areas.</p>
     <p>Apart from my studies, I am an <strong>avid reader</strong> and love to explore various topics through books. I believe that <strong>knowledge is power</strong>, and I seek to expand my understanding of the world around me every day.</p>
     <p>As an <strong>ambitious individual</strong>, I am constantly seeking new challenges and opportunities to grow. I believe in <strong>pushing my limits</strong> and exploring my potential to the fullest.</p>
     <p>I am also a <strong>Gym Rat</strong>. I love to stay fit and active, and hitting the gym is one of my favorite ways to do so.</p>
     <p>I believe that fitness is not just about looking good but is also essential for maintaining good health and a positive outlook on life.</p>
     <p>I believe that through <strong>hard work</strong>, <strong>dedication</strong>, and <strong>discipline</strong> anyone can <strong>achieve anything</strong>!</p>
+
+
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
