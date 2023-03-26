@@ -14,13 +14,12 @@
 #     - tag: Node
 
 - name: Packet Sniffer
-  descr: "Multi threaded packet sniffer written in Rust"
+  descr: "Multi threaded packet sniffer"
   demo: https://github.com/dibbadan/Packet_Sniffer
   tags:
     - tag: Rust
-    - tag: Multithread
 
-- name: Study Plan University Exam Project
+- name: Study Plan Manager
   descr: "ReactJS web application to manage study plan"
   demo: https://github.com/dibbadan/Exam_Project
   tags:
@@ -28,8 +27,8 @@
     - tag: ExpressJS
     - tag: Javascript
 
-- name: Ticketing Platform University Exam Project [Working in progress]
-  descr: "Spring Boot web application for ticketing customers support"
+- name: Support Ticketing Platform [ Working in progress ]
+  descr: "Spring Boot web application to support buyers of electronic goods"
   demo: #
   tags:
     - tag: Spring Boot
