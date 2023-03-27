@@ -15,13 +15,13 @@
 
 - name: Packet Sniffer
   descr: "Multi threaded packet sniffer"
-  demo: https://github.com/dibbadan/Packet_Sniffer
+  source_code: https://github.com/dibbadan/Packet_Sniffer
   tags:
     - tag: Rust
 
 - name: Study Plan Manager
-  descr: "ReactJS web application to manage study plan"
-  demo: https://github.com/dibbadan/Exam_Project
+  descr: "ReactJS web application to manage study plan [ Waiting the organization to make the repository public ]"
+  source_code: https://github.com/polito-WA1-AJ-2022-exam/exam-1---studyplan-dibbadan
   tags:
     - tag: ReactJS
     - tag: ExpressJS
@@ -29,7 +29,7 @@
 
 - name: Support Ticketing Platform [ WIP ]
   descr: "Spring Boot web application to support buyers of electronic goods"
-  demo: #
+  source_code: #
   tags:
     - tag: Spring Boot
     - tag: ReactJS
