@@ -19,7 +19,7 @@
   tags:
     - tag: Rust
 
-- name: Study Plan Manager [ Waiting the organization to make public the repository ]
+- name: Study Plan Manager
   descr: "ReactJS web application to manage study plan"
   source_code: https://github.com/polito-WA1-AJ-2022-exam/exam-1---studyplan-dibbadan
   tags:

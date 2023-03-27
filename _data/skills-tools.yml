@@ -17,7 +17,7 @@
 - name: npm
   weight: 4
 
-- name: VS Code
+- name: VSCode
   weight: 4
 
 - name: Postman
