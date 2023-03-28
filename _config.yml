@@ -25,7 +25,7 @@ typing_text_3: Ambitious Individual
 # > twitter_username:
 github_username: dibbadan
 linkedin_username: daniele-di-battista-883160266
-instagram_username: daniele_di_battista
+#instagram_username: daniele_di_battista
 #twitter_username: exampleUser
 
 # ABOUT ME SECTION
@@ -93,6 +93,11 @@ projects_title: Projects
 #contact_title: Contact
 # contact_description: This will be displayed under the title.
 #contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
+
+
+# BLOG SECTION
+show_blog: false
+
 
 # GITHUB-METADATA
 # Set this to your forked repository

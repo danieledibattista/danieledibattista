@@ -57,6 +57,17 @@
       {% include section-contact.html %}
     </section>
     {% endif %}
+    {%if site.show_blog %}
+      <section class="card neumorphism-card-big">
+        <ul>
+          {% for post in site.posts %}
+          <li>
+            <a target="_blank" href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
   </div>
   {% include footer.html %}
 </body>
