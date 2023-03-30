@@ -19,6 +19,10 @@
 }
 
 
+a:hover, a:focus {
+  -webkit-tap-highlight-color: transparent;
+}
+
 
 #back-to-top:hover {
   box-shadow: none;
