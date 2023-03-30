@@ -14,6 +14,11 @@
   z-index: 9999;
 }
 
+#back-to-top:hover, #back-to-top:focus {
+  -webkit-tap-highlight-color: transparent;
+}
+
+
 
 #back-to-top:hover {
   box-shadow: none;
@@ -32,3 +37,5 @@ html {
 #mail:hover .social-svg {
   transform: rotateY(180deg);
 }
+
+
