@@ -1,0 +1,12 @@
+.post-content img,
+.post-content video {
+  max-width: 100%;
+  height: auto;
+}
+
+.post-content iframe {
+  width: 100%;
+  height: auto;
+  min-height: 300px; /* adjust this value as needed */
+}
+

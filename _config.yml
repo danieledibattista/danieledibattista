@@ -19,7 +19,7 @@ typing_text_1: Avid reader
 typing_text_2: Gym Rat
 typing_text_3: Ambitious Individual
 # email: Your E-Mail address for the email button.
-#email: dibadan@proton.me
+email: danieledibattista@protonmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -88,16 +88,16 @@ projects_title: Projects
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-#show_contact_card: true
+show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-#contact_title: Contact
+contact_title: Contact
 # contact_description: This will be displayed under the title.
-#contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
+contact_description:  <a class="highlight-link" href="https://github.com/dibbadan" target="_blank" rel="noreferrer"> Github </a>.
 
 
 # BLOG SECTION
 show_blog: false
-
+#permalink: /:baseurl/:blog
 
 # GITHUB-METADATA
 # Set this to your forked repository
