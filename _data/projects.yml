@@ -38,3 +38,4 @@
     - tag: Postgres
     - tag: MongoDB
     - tag: WebSocket
+    - tag: Keycloak
