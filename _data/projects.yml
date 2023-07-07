@@ -27,7 +27,7 @@
     - tag: ExpressJS
     - tag: Javascript
 
-- name: Support Ticketing Platform [ WIP ]
+- name: Support Ticketing Platform [ Ask me to see the code ]
   descr: "Spring Boot web application to support buyers of electronic goods"
   source_code: #
   tags:
@@ -36,3 +36,5 @@
     - tag: Kotlin
     - tag: Javascript
     - tag: Postgres
+    - tag: MongoDB
+    - tag: WebSocket
